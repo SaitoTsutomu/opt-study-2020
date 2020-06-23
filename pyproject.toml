@@ -7,8 +7,8 @@ authors = ["SaitoTsutomu <tsutomu7@hotmail.co.jp>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 jupyter = "^1.0.0"
-ortoolpy = "^0.2.34"
-matplotlib = "^3.2.1"
+ortoolpy = "^0.2.35"
+matplotlib = "^3.2.2"
 
 [tool.poetry.dev-dependencies]
 
